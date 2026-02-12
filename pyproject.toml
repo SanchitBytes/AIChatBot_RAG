@@ -1,0 +1,22 @@
+[project]
+name = "s-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ddgs>=9.10.0",
+    "duckduckgo-search>=4.1.1",
+    "faiss-cpu>=1.7.4",
+    "langchain>=0.1.20",
+    "langchain-community>=0.0.32",
+    "langchain-core>=0.1.45",
+    "langchain-mistralai>=0.0.7",
+    "langgraph>=0.0.40",
+    "langgraph-checkpoint-sqlite>=3.0.3",
+    "pypdf>=4.0.0",
+    "python-dotenv>=1.0.0",
+    "sqlite-utils>=3.35.0",
+    "streamlit>=1.31.0",
+    "typing-extensions>=4.9.0",
+]

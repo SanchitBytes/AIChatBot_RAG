@@ -1,0 +1,29 @@
+# Core
+python-dotenv>=1.0.0
+
+# UI
+streamlit>=1.31.0
+
+# LangChain / LangGraph
+langchain>=0.1.20
+langchain-core>=0.1.45
+langchain-community>=0.0.32
+langgraph>=0.0.40
+
+# Mistral
+langchain-mistralai>=0.0.7
+
+# Vector DB
+faiss-cpu>=1.7.4
+
+# Search
+duckduckgo-search>=4.1.1
+
+# PDF Processing
+pypdf>=4.0.0
+
+# Database
+sqlite-utils>=3.35.0
+
+# Typing / Utils
+typing-extensions>=4.9.0
